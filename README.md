@@ -6,12 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaldubey9" alt="vishaldubey9" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce Sales](https://github.com/VishalDubey9/Ecommerce_Sales_Project)
+ 
+ <p><img align="right" align="right" aling="center" alt="Welcome" width="600" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/></p>
 
 - 🌱 I’m currently learning **Data Analyst**
 
 - 👯 I’m looking to collaborate on **Banking Data**
-
-   <img align="right" alt="Welcome" width="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 🤝 I’m looking for help with **Data Visualization**
 
