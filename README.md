@@ -2,9 +2,8 @@
 <h3 align="center">A passionate data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldubey9&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldubey9" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaldubey9" alt="vishaldubey9" /></a> </p>
-<p><img align="right" align="right" aling="center" alt="Welcome" width="600" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/></p>
+<p><img align="right" align="right" aling="center" alt="Welcome" width="600" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"/></p>
 
 - 🔭 I’m currently working on [Ecommerce Sales](https://github.com/VishalDubey9/Ecommerce_Sales_Project)
  
