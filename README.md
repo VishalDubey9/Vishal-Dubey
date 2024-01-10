@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at  [https://github.com/VishalDubey9](https://github.com/VishalDubey9)
 
-- 💬 Ask me about **Power Bi and Data Visualization**
+- 💬 Ask me about  **Power Bi and Data Visualization**
 
 - 📫 How to reach me **vishaldubey6921@gmail.com**
 
