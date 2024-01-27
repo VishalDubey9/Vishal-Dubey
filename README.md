@@ -6,7 +6,7 @@
 <p><img align="right" align="right" aling="center" alt="Welcome" width="600" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"/></p>
 
 - 🔭 I’m currently working on **Fifa world cup data**
-- 
+
 - 🌱 I’m currently learning **Data Analyst**
 
 - 👯 I’m looking to collaborate on **Banking Data**
